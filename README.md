@@ -11,6 +11,8 @@ You can import it into Open Office following this steps :
 4. Click the open file icon (bottom right)
 5. Import the .soc file
 
+The `./translate.sh` asks you a new name for each color so you can translate names easily.
+
 If you want this to be your default color palette when OOo opens, you have to change the default file.
 
 Linux : `/home/you/.config/libreoffice/4/user/config/standard.soc`
