@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ooo:color-table xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ooo="http://openoffice.org/2004/office">
+<office:color-table xmlns:office="http://openoffice.org/2000/office" xmlns:style="http://openoffice.org/2000/style" xmlns:text="http://openoffice.org/2000/text" xmlns:table="http://openoffice.org/2000/table" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="http://openoffice.org/2000/meta" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:svg="http://www.w3.org/2000/svg" xmlns:chart="http://openoffice.org/2000/chart" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="http://openoffice.org/2000/form" xmlns:script="http://openoffice.org/2000/script">
 <draw:color draw:name="Red 50" draw:color="#ffebee"/>
 <draw:color draw:name="Red 100" draw:color="#ffcdd2"/>
 <draw:color draw:name="Red 200" draw:color="#ef9a9a"/>
@@ -256,4 +256,4 @@
 <draw:color draw:name="Blue grey 900" draw:color="#263238"/>
 <draw:color draw:name="White" draw:color="#ffffff"/>
 <draw:color draw:name="Black" draw:color="#000000"/>
-</ooo:color-table>
+</office:color-table>
